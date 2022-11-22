@@ -1,0 +1,75 @@
+@media only screen and (max-width: 600px) {
+  #hello {
+    background-color: lightblue;
+    display: none;
+  }
+  #menuTop{
+    display: none;
+  }
+  #contactUs{
+    display: none;
+  }
+  .cOfCP{
+    display: none;
+  }
+   #vidTop{
+    display: none;
+  }
+  #topCousesDesk{
+    display: none;
+  }
+  #divForDesk{
+    display: none;
+  }
+  #entDesk{
+    display: none;
+  }
+  #ebooksSYS{
+    display: none;
+  }
+  #udemySYS{
+    display: none;
+  }
+  #selfDevSYS{
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  .container {
+   display: none;
+  }
+  #divForPhone{
+    display: none;
+  }
+  #hello {
+    background-color: red;
+  }
+  #headingTop{
+display: none;
+  }
+  #divBack{
+display: none;
+  }
+  .topMob{
+    display: none;
+  }
+  #topCoursesCards{
+    display: none;
+  }
+  #contactUsMobile{
+    display: none;
+  }
+  #entMob{
+    display: none;
+  }
+  #ebooksMOB{
+    display: none;
+  }
+  #udemyMOB{
+    display: none;
+  }
+  #selfDevMOB{
+    display: none;
+  }
+}
